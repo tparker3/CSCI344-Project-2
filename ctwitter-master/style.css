@@ -1,22 +1,23 @@
 body {
-  background: #fff773;
+  background: #00ac6b;
 }
 
 .title {
   font-family: Dosis;
   text-align: center;
-  
+  color: white;
   margin: 10px;
+  font-size: 40px;
 }
 
 .content {
   font-family: Dosis;
   text-align: center;
-  background: #8f0037;
+  background: #ff9e73;
   width: 600px;
   margin-left: auto;
   margin-right: auto;
-  color:#5ccdc9;
+  color:purple;
 
   
 }
@@ -24,5 +25,5 @@ body {
 .tweets {
   font-family: Dosis;
   text-align: center;
-  color:#5ccdc9;
+  color:#00ac6b;
 }
