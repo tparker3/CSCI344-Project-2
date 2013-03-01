@@ -1,0 +1,29 @@
+body {
+  background: #00ac6b;
+}
+
+.title {
+  font-family: Dosis;
+  text-align: center;
+  color: white;
+  margin: 10px;
+  font-size: 40px;
+}
+
+.content {
+  font-family: Dosis;
+  text-align: center;
+  background: #ff9e73;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  color:purple;
+
+  
+}
+
+.tweets {
+  font-family: Dosis;
+  text-align: center;
+  color:#00ac6b;
+}
